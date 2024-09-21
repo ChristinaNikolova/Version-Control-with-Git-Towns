@@ -9,7 +9,7 @@ body {
 }
 
 article {
-  background: #ccc;
+  background: lightblue;
   width: 180px;
   padding: 10px;
   margin: 10px;
@@ -18,7 +18,7 @@ article {
 }
 
 article > header {
-  background: #5f5f5f;
+  background: darkblue;
   color: white;
   margin: 0px 0px 10px 0px;
   padding: 4px 6px;
@@ -40,7 +40,7 @@ article > button {
   display: block;
   margin: 10px auto 0px auto;
   border: none;
-  border-radius: 10px;
+  border-radius: none;
   padding: 5px 15px;
   background: green;
   color: white;
